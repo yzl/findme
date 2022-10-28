@@ -9,3 +9,4 @@ Places where you can find me online
 * plus about a zillion more slacks/discords that aren't associated to a particular community from which anyone who isn't already there is likely to try to find me
 * I have a facebook account, but that's for talking to a small group of IRL friends.
 * I have an instagram account, but I rarely look at it because instagram makes me feel terrible.
+* [LinkedIn profile](https://www.linkedin.com/in/yvonne-lam-82446b/) I almost never look at my linkedin notifications due to the recruiter spam, let alone hang out there.
