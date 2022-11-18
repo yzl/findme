@@ -2,7 +2,7 @@ Places where you can find me online
 
 * [Mastadon](https://mastodon.social/@yvonnezlam)
 * [LFI slack](https://github.com/norajones/LFI-Slack) (username: @yl)
-* [Rands slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) (username: @yl)
+* [Rands slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) (username: @yvonne)
 * Chef Software alumni slack (username: @yl)
 * System Design Leadership slack (username: @yl)
 * Women in Infrastructure slack (username: @yl)
